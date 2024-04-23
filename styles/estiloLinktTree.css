@@ -1,0 +1,121 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url("../images/backgroundHome.jpg");
+    background-repeat: no-repeat;
+    background-color: #19177e;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: 100% 100%;
+}
+
+header{
+    order: 1px solid #f78620;
+    padding: 15px;
+    margin: 0;
+    text-align: center;
+    color: #f78620;
+    background-color: #19177e;
+    box-shadow:  #f78620 0px 20px 50px 25px;
+    position: sticky;
+    z-index: 1000;
+}
+
+#redes{
+    margin: 123px 200px 10px 200px;
+    text-align: center;
+    
+}
+
+.btn00{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #19177e;
+    padding: 1rem;
+    width: 20rem;
+    background-color: #d68f50;
+    font-size: 20px;
+    margin: 30px;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer; 
+    transition: .3s;
+}
+
+.btn00:hover{
+    transition: .3s;
+    background-color: #f78620;
+    box-shadow: #f78620 0px 0px 40px 1px;
+}
+
+.btn01{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #19177e;
+    padding: 1rem;
+    width: 20rem;
+    background-color: #d68f50;
+    font-size: 20px;
+    margin: 30px;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer; 
+    transition: .3s;
+}
+
+.btn01:hover{
+    transition: .3s;
+    background-color: #f78620;
+    box-shadow: #f78620 0px 0px 40px 1px;
+}
+
+.btn02{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #19177e;
+    padding: 1rem;
+    width: 20rem;
+    background-color: #d68f50;
+    font-size: 20px;
+    margin: 30px;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer; 
+    transition: .3s;
+}
+
+.btn02:hover{
+    transition: .3s;
+    background-color: #f78620;
+    box-shadow: #f78620 0px 0px 40px 1px;
+}
+
+.btn03{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #19177e;
+    padding: 1rem;
+    width: 20rem;
+    background-color: #d68f50;
+    font-size: 20px;
+    margin: 30px;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer; 
+    transition: .3s;
+}
+
+.btn03:hover{
+    transition: .3s;
+    background-color: #f78620;
+    box-shadow: #f78620 0px 0px 40px 1px;
+}
+
+footer{
+    border: 1px solid #f78620;
+    padding-top: 20px;
+    margin-top: 50px;
+    text-align: center;
+    color: #f78620;
+    background-color: #19177e;
+}

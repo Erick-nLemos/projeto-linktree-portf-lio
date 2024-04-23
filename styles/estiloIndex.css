@@ -1,0 +1,84 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url("../images/backgroundHome.jpg");
+    background-repeat: no-repeat;
+    background-color: #19177e;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: 100% 100%;
+}
+
+header {
+    border: 1px solid #f78620;
+    padding: 15px;
+    margin: 0;
+    text-align: center;
+    color: #f78620;
+    background-color: #19177e;
+    box-shadow:  #f78620 0px 20px 50px 25px;
+    position: sticky;
+    z-index: 1000;
+}
+
+#cv {
+    padding: 0%;
+    color: #f78620;
+    text-align: center;
+    margin: 100px 200px 0px 200px;
+    transition: .3s;
+}
+
+#cv .img-box{
+    height: 65rem;
+    border-radius: 15px;
+    transition: .3s;
+    margin: 15%;
+    
+}
+
+.img-box img{
+    border-radius: 15px;
+    transition: .3s;
+}
+
+.img-box:hover img{
+    box-shadow: #f78620 0px 1px 50px 10px;
+    translate: 0px -10px;
+}
+
+.btnLinkTree{
+    margin: 20px 200px 10px 200px;
+    text-align: center;
+}
+
+.btnLinkTree button{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #19177e;
+    padding: 1rem;
+    width: 20rem;
+    background-color: #d68f50;
+    font-size: 20px;
+    margin: 0px;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer; 
+    transition: .3s;
+}
+
+.btnLinkTree button:hover{
+    transition: .3s;
+    background-color: #f78620;
+    box-shadow: #f78620 0px 0px 40px 1px;
+    
+}
+
+footer{
+    border: 1px solid #f78620;
+    padding-top: 20px;
+    margin-top: 50px;
+    text-align: center;
+    color: #f78620;
+    background-color: #19177e;
+}
