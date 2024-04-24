@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
 body {
     margin: 0;
     padding: 0;
@@ -12,10 +14,11 @@ body {
 }
 
 header{
-    order: 1px solid #f78620;
+    border: 1px solid #f78620;
     padding: 15px;
     margin: 0;
     text-align: center;
+    font-family: "Fira Sans", sans-serif;
     color: #f78620;
     background-color: #19177e;
     box-shadow:  #f78620 0px 20px 50px 25px;
@@ -25,15 +28,15 @@ header{
 
 /*Editando botao de download curriculo*/
 #btnCv {
-    padding: 3rem;
+    padding: 0% 1% 0% 1%;
     position: relative;
     text-align: center;
-    margin-top: 2rem;
+    margin-top: 4rem;
 }
 
 .btn03 {
     text-align: center;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: "Fira Sans", sans-serif;
     color: #19177e;
     padding: 1rem;
     width: 20rem;
@@ -58,10 +61,11 @@ header{
     color: #f78620;
     text-align: center;
     margin: 0% 0% 2% 0%;
-    left: 0px;
-    right: 0px;
+    left: 0%;
+    right: 0%;
     position: relative;
     transition: .3s;
+    
 }
 
 .img-box{
@@ -70,13 +74,14 @@ header{
     padding-top: 15px;
     margin: 0% 25.9% 0% 25.9%;
     transition: .3s;
-
+    text-align: center;
 }
 
 .img-box img{
     border-radius: 15px;
     transition: .5s;
     position: relative;
+    
 }
 
 .img-box:hover img{
@@ -99,20 +104,26 @@ footer{
     }
 
     .img-box{
-        height: 32.7rem;
+        height: 10%;
         border-radius: 15px;
-        padding-top: 7px;
-        margin: 0% 18% 0% 18%;
+        padding-top: 2px;
+        margin: 0% 12% 4% 12%;
     }
 
     .img-box img{
-        width: 300px;
-        height: 520px;   
+        width: 17rem;
+        height: auto;
+        padding: -50px;
+
     }
 
     #cv {
-        margin: -7% 0% 5% 0%; 
+        margin: -7% 0% 2% 0%; 
 
+    }
+
+    #btnCv {
+        padding: 0% 1% 10% 1%;
     }
 
     .btn03 {
