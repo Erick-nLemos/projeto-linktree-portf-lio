@@ -128,9 +128,35 @@ footer {
     
     #redes {
         margin-top: 3rem;
+        padding: 1rem;
+    }
+
+    .btn00 {
+        padding: 1rem;
+        width: 15rem;
+        background-color: #d68f50;
+        font-size: 15px;
+        margin: 30px;
+    }
+
+    .btn01 {
+        padding: 1rem;
+        width: 15rem;
+        background-color: #d68f50;
+        font-size: 15px;
+        margin: 30px;
+    }
+
+    .btn02 {
+        padding: 1rem;
+        width: 15rem;
+        background-color: #d68f50;
+        font-size: 15px;
+        margin: 30px;
     }
 
     footer {
-        padding-top: 1px;
+        padding: 0px;
+        font-size: 12px;
     }
 }
