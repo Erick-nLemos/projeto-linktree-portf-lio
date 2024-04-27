@@ -19,5 +19,5 @@ Basta acessar o link do site: https://ericklemoslinktree.netlify.app/
 
 ### Autor
 
-Erick do Nascimento Lemos
+Erick do Nascimento Lemos<br>
 LinkedIn: https://www.linkedin.com/in/erick-nlemos/
