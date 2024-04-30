@@ -2,7 +2,7 @@
 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/Erick-nLemos/projeto-linktree-portf-lio/blob/main/LICENSE)
 
-## Sobre o Porjeto
+## Sobre o Projeto
 
 https://ericklemoslinktree.netlify.app/
 
