@@ -7,7 +7,7 @@
 https://ericklemoslinktree.netlify.app/
 
 Este linktree foi criado para ser um hub das minhas principais redes e para divulgar meus projetos.
-Para a criação do mesmo, foi usado o conhecidomento adquirido no curso de desenvolvimento web na instituição [*Aeronet Curso Informática & Idiomas*](https://aeronetcursos.com.br/).
+Para a criação do mesmo, foi usado o conhecimento adquirido no curso de desenvolvimento web na instituição [*Aeronet Curso Informática & Idiomas*](https://aeronetcursos.com.br/).
 
 ## Tecnologias Usadas
 
